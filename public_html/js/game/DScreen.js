@@ -1,0 +1,1 @@
+DScreen={};DScreen.ZOOM_MUL=3;DScreen.ZOOM_DIV=1;DScreen.RATIO=DScreen.ZOOM_MUL/DScreen.ZOOM_DIV;
